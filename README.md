@@ -80,4 +80,6 @@ I love bringing ideas to life using modern frameworks, writing clean and efficie
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mugilan0610&label=Profile%20Views&color=0e75b6&style=flat" alt="mugilan0610" />
 </p>
+-----
+![snake gif](https://github.com/mugilan0610/mugilan0610/blob/output/github-contribution-grid-snake.svg)
 
