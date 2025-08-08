@@ -77,6 +77,7 @@ I love bringing ideas to life using modern frameworks, writing clean and efficie
 
 ---
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/mugilan0610/count.svg?" alt="Visitor Counter"/>
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mugilan0610&label=Profile%20Views&color=0e75b6&style=flat" alt="mugilan0610" />
+</p>
+
