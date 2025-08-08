@@ -82,3 +82,4 @@ I love bringing ideas to life using modern frameworks, writing clean and efficie
 </p>
 
 
+![Snake animation](https://github.com/mugilan0610/mugilan0610/blob/output/github-contribution-grid-snake.svg)
