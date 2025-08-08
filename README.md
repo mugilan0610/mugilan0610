@@ -26,7 +26,7 @@ I love bringing ideas to life using modern frameworks, writing clean and efficie
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Email" />
   </a>
   <a href="https://github.com/mugilan0610" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg" width="52" height="40" alt="GitHub" />
+    <img src="https://th.bing.com/th/id/OIP.ujW9Gv6fOwy0Tm0GRcJT4gHaGs?w=263&h=237&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2" width="52" height="40" alt="GitHub" />
   </a>
 </div>
 
